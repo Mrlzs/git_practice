@@ -4,7 +4,8 @@ using namespace std;
 
 int main(){
 
-    export PATH = ""
+    export PATH = "happy new years";
+
 
     return 0;
 }
